@@ -23,5 +23,8 @@
 
 * images：圖庫
 
-* shape_predictor_68_face_landmarks.dat：OpenCV人臉特徵捕捉的預訓練模型，[參考頁面](https://github.com/davisking/dlib/blob/master/python_examples/face_landmark_detection.py)
+## 備註
 
+執行程式前請先下載OpenCV人臉特徵捕捉的預訓練模型：shape_predictor_68_face_landmarks.dat
+下載位置請參考[OpenCV Github頁面說明](https://github.com/davisking/dlib/blob/master/python_examples/face_landmark_detection.py)
+或者[stackoverflow問題解決辦法](https://stackoverflow.com/questions/64643440/how-do-i-fix-runtimeerror-unable-to-open-shape-predictor-68-face-landmarks-dat)
