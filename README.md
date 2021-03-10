@@ -17,7 +17,7 @@
 
 * main.py：主程式
 
-* manual.ipynb：Jupyter Notebook檔案，說明本專案實作過程
+* document.ipynb：Jupyter Notebook檔案，說明程式實作過程
 
 * requirements.txt：需要安裝的package清單
 
