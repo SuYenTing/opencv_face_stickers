@@ -17,7 +17,7 @@
 
 * main.py：主程式
 
-* document.ipynb：Jupyter Notebook檔案，說明程式實作過程
+* document.ipynb：Jupyter Notebook檔案，說明程式實作過程。若想直接觀看說明，可至我的[Blog文章](https://suyenting.github.io/post/opencv_face_stickers/)觀看。
 
 * requirements.txt：需要安裝的package清單
 
